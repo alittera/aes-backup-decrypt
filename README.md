@@ -9,7 +9,7 @@ The data is originally encrypted with aes256-cbc by the Nas and then uploaded to
 ## Requirements
 It will be necessary to have the openssl library installed and usable from the terminal.
 
-Python packages: subprocess,getpass,progressbar, multiprocessing, argparse, datetime
+Python packages: subprocess, getpass, progressbar, multiprocessing, argparse, datetime
 
 ## Usage
 
