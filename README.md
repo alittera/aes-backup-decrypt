@@ -16,9 +16,9 @@ Python packages: subprocess,getpass,progressbar, multiprocessing, argparse, date
 
 **positional arguments:**
 -  **in_folder** :          path with encrypted files and folders
-- **out_folder** :         path to save decrypted files and folders
+- **out_folder** :          path to save decrypted files and folders
 
 **optional arguments:**
-  - **-h, --help**  :        show this help message and exit
- - **-m, --multiprocess** : increase output verbosity
--  **-v, --verbose** :      enable multiprocess execution
+  - **-h, --help**  :       show this help message and exit
+ - **-m, --multiprocess** : enable multiprocess execution 
+-  **-v, --verbose** :      increase output verbosity
