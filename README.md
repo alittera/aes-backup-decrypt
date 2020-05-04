@@ -7,7 +7,7 @@ The data is originally encrypted with aes256-cbc by the Nas and then uploaded to
 **Security warning** : the machine on which the decryption is carried out must be considered safe as the algorithm does not guarantee the security of the password from local attacks.
 
 ## Requirements
-It will be necessary to have the openssl library installed and usable from the terminal.
+It will be necessary to have the **openssl library** installed and usable from the terminal.
 
 Python packages: subprocess, getpass, progressbar, multiprocessing, argparse, datetime
 
