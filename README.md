@@ -14,10 +14,10 @@ Python packages: subprocess,getpass,progressbar, multiprocessing, argparse, date
 >**python3 aes-backup-decrypt.py <in_folder> <out_folder> [-h] [-m] [-v]**
 
 **positional arguments:**
--  in_folder           path with encrypted files and folders
-- out_folder          path to save decrypted files and folders
+- 'in_folder' :          path with encrypted files and folders
+- 'out_folder'  :        path to save decrypted files and folders
 
 **optional arguments:**
-- -h, --help          show this help message and exit
-- -m, --multiprocess  increase output verbosity
--  -v, --verbose       enable multiprocess execution
+- '-h, --help' :         show this help message and exit
+- '-m, --multiprocess' : increase output verbosity
+-  '-v, --verbose' :      enable multiprocess execution
