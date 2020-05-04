@@ -11,7 +11,7 @@ It will be necessary to have the openssl library installed and usable from the t
 Python packages: subprocess,getpass,progressbar, multiprocessing, argparse, datetime
 
 ## Usage
->**python3 aes-backup-decrypt.py in_folder out_folder [-h] [-m] [-v]**
+>**python3 aes-backup-decrypt.py <in_folder> <out_folder> [-h] [-m] [-v]**
 
 **positional arguments:**
 -  in_folder           path with encrypted files and folders
